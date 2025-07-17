@@ -2,47 +2,37 @@
 
 **Fantasy, Code, and Creativity.**
 
-Welcome to **Bit&Blades**, an independent creative lab where storytelling, software development, game design, and visual experimentation come together.
+Welcome to **Bit&Blades**, an independent lab where code meets game design, hardware tinkering, and 3D experimentation.
 
----
-
-## ✨ About
-
-**Bit&Blades Studio** is the creative project of **Gary Axton**, a pseudonym for a multidisciplinary creator developing a cohesive fantasy universe through:
-
-- 📖 A fantasy novel set in a homebrew RPG world.
-- 🎮 Indie games and interactive prototypes built with Unity.
-- 🎲 Tabletop RPG content, tools, and custom mechanics.
-- 🧰 Open-source utilities for enhancing gameplay.
-- 🧙 3D artwork, renders, and miniatures created with Blender and other tools.
-
-This space serves as a crossroad between fiction, design, and technology.
+This GitHub profile hosts all technical projects related to Bit&Blades — from digital RPG tools to indie game development and 3D assets.
 
 ---
 
 ## 🔍 What you'll find here
 
-- `📚 /gary-axton-novel` — Writing drafts, worldbuilding notes, and narrative tools.
-- `🛠️ /rpg-tools` — Scripts, generators, and utilities for D&D and other systems.
-- `🎮 /unity-projects` — Experiments in game mechanics and indie development.
-- `🧱 /blender-assets` — 3D models, characters, items, and animation tests.
-- `⚔️ /modules` — One-page adventures, homebrew classes, and plug-ins for tabletop games.
+- `🛠️ /rpg-tools` — Scripts, generators, digital tools, and automation for tabletop RPGs (e.g., loot tables, character sheets, map tools).
+- `🎮 /unity-projects` — Prototypes and systems developed in Unity for indie games or experimental mechanics.
+- `🔩 /hardware-hacks` — Microcontroller-based projects and tools to enhance tabletop or digital play (e.g., dice rollers, smart props).
+- `🧱 /blender-assets` — Custom 3D models, props, and visual experiments used in games or printing.
+- `📦 /libraries` — Reusable scripts, utilities, or frameworks related to game mechanics or UI.
 
 ---
 
-## 🚀 Vision
+## 🎯 Focus
 
-Bit&Blades aims to grow into a creative studio that blends fiction, interactive media, and open-source tools to empower storytellers and players alike.
-
-Whether you're here for code, lore, or curiosity — you're welcome to explore, contribute, or just get inspired.
+- Tools that improve the tabletop RPG experience.
+- Experiments in real-time interaction using Unity and hardware.
+- Asset creation pipelines (3D + code).
+- Open and modular design for reuse and collaboration.
 
 ---
 
 ## 📫 Connect
 
-- 📷 [Instagram: @bitandblades](https://instagram.com/bitandblades) — Visuals, updates & behind-the-scenes
-- 🧠 More platforms coming soon...
+- 📷 [Instagram: @bitandblades](https://instagram.com/bitandblades) — Visual updates, behind-the-scenes, and demos.
 
 ---
 
-*Built one world, one idea, one line of code at a time.*
+## 📁 Project Index
+
+Coming soon: A full index of all public repos with tags and tech stacks used.
